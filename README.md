@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Diondra
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning R, Python and Machine Learing
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning R, Python and Machine Learing. Pursuing a Bachelor's degree in Applied Mathematics
 - 📫 How to reach me stubbsdiondra@gmail.com
 
 <!---
