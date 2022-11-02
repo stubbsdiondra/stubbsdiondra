@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Diondra
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning R, Python and Machine Learing. Pursuing a Bachelor's degree in Applied Mathematics
+- 👀 I’m interested in Data Analytics
+- 🌱 Recent Graduate with B.S. in Applied Mathematics
 - 📫 How to reach me stubbsdiondra@gmail.com
 
 <!---
@@ -9,8 +9,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-Diondra Stubbs is a senior Applied Mathematics Student at the University of Rhode Island. Diondra has progressing experience in Data Science, Data Analysis, Data Visualization, Statistical Analysis and programming languages such as: R and Python. She is looking forward to advancing and specializing in Machine Learning and Deep Learning as well as software/languages such as: Java, Tableau, SQL, C++ and more.
+Recent Graduate and Entry Level Data Analyst, with experience in Excel, SQL, Tableau and Python.
 
-As a past Civil Engineering student, Diondra has been able to transfer her probability, statistics and mathematics skills to passionately dive into the Applied Mathematics/Data Science field. Her skills include R, Python, data analysis, statistical analysis, data visualizations, debugging, data cleaning, creating data stories, making predictions about complex systems and more.
-
-Diondra is looking forward to gaining experience in data analyst/scientist roles in preparation for success as a future data scientist. Her intended graduation is planned for May 2022. She does plan to further her degree to a Master's. 
+My background is mainly in state environmental management and education, which enabled me to refine hard skills such as Excel and Python. I spent a brief period doing research analyst work with EARI/BW Research enabling me to work with Excel, Tableau, Python, and Qualtrics. Due to my course experience, I have an understanding of machine learning and other data science concepts. I also have experience with programming language R.
