@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Diondra
 - 🌱 B.S. in Applied Mathematics
-- 👀 I love SQL, Tableau, Pyhton and telling stories and making predictions with data.
+- 👀 I love SQL, Tableau, Python and telling stories and making predictions with data.
 - 📫 How to reach me stubbsdiondra@gmail.com
 
 <!---
