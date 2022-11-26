@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Diondra
-- 👀 I’m interested in Data Analytics
-- 🌱 Recent Graduate with B.S. in Applied Mathematics
+- 🌱 B.S. in Applied Mathematics
+- 👀 I love SQL, Tableau, Pyhton and telling stories and making predictions with data.
 - 📫 How to reach me stubbsdiondra@gmail.com
 
 <!---
@@ -9,6 +9,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-Recent Graduate and Entry Level Data Analyst, with experience in Excel, SQL, Tableau and Python.
-
-My background is mainly in state environmental management and education, which enabled me to refine hard skills such as Excel and Python. I spent a brief period doing research analyst work with EARI/BW Research enabling me to work with Excel, Tableau, Python, and Qualtrics. Due to my course experience, I have an understanding of machine learning and other data science concepts. I also have experience with programming language R.
+Recent Graduate versed in SQL, Excel, Python and Tableau. I am seeking data/business analyst or data scientist roles. My educational background has pushed me towards a passion for data and using it to tell stories and make predictions. My background in research and state environmental management influenced my interest in America’s greatest healthcare and environmental challenges..
