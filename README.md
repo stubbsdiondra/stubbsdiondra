@@ -9,4 +9,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-Recent Graduate versed in SQL, Excel, Python and Tableau. I am seeking data/business analyst or data scientist roles. My educational background has pushed me towards a passion for data and using it to tell stories and make predictions. My background in research and state environmental management influenced my interest in America’s greatest healthcare and environmental challenges.
+Recent graduate of the University of Rhode Island versed in SQL, Excel, Python and Tableau. Strong passion for data and using it to tell stories and make predictions through building dashboards and performing data analysis. Educational experiences include aggregating and analyzing unstructured data from multiple sources using Python libraries like Pandas, Scikit-learn, NumPy, Seaborn and Matplotlib. 
