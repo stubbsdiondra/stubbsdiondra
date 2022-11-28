@@ -9,4 +9,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-Recent graduate of the University of Rhode Island versed in SQL, Excel, Python and Tableau. Strong passion for data and using it to tell stories and make predictions through building dashboards and performing data analysis. Educational experiences include aggregating and analyzing unstructured data from multiple sources using Python libraries like Pandas, Scikit-learn, NumPy, Seaborn and Matplotlib. 
+Recent graduate versed in SQL, Excel, Python and Tableau. Strong passion for data and using it to tell stories and make predictions through building dashboards and performing data analysis. Educational experiences include aggregating and analyzing unstructured data from multiple sources using Python libraries like Pandas, Scikit-learn, NumPy, Seaborn and Matplotlib. 
